@@ -38,7 +38,7 @@ This repository contains my completed internship tasks and deliverables. I worke
 
 ## 📁 Files
 
-- `Cybersecurity-Internship-Deck.pdf` – Full slide deck covering all tasks, risks, and recommendations
+- `Cybersecurity Internship.pdf` – Full slide deck covering all tasks, risks, and recommendations
 
 ---
 
